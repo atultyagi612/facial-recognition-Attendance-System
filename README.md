@@ -80,7 +80,7 @@ and the daily attendance also stored in the google drive spreedsheets for this y
 ![plot](./images/backup.jpg)
 
 ## User Side 
-
+You need to run [user_side.py](user_side.py)
 At this you just need to enter your ID after that it Recognise your face if it matches it mark your Attendance on database and also on google spreadsheet . 
 
 
