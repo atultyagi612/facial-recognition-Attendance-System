@@ -33,8 +33,37 @@ oauth2client
 **You can  refer google for their working , installation  and other knowledge**
 
 # DEMO
-Firstyou need to run the Login_Page(README.md)
+Firstyou need to run the  [Login_Page.py](README.md)
 
-[a relative link](README.md)
+IMG
+
+After filling the **user name** =>  ```atul``` **Password** => ```corona``` 
+
+You came to the main page of this project at this page there is many options 
+
+**1 ADD client 
+
+In this option you may have to fill the clent/student details ('there is many conditions at the back end so if any error came please read carefully the error may be of some databse error  so due to that you may need to cahnge some values ')
+
+IMG
+**2 Update client**
+
+In this option you can simply update the previous client/student data just by entering their ID . And you can also create a local Attendance file *IF IT IS NOT PRESENT And also check that the client/student Trainer file (File is which th facial data is present) is present or not if not you can also create.
+
+IMG
+
+**3 Clients**
+
+In this option you just simply see the imformations of client/students
+
+IMG
+
+**4 BACKUP**
+
+By the help of Backup option you can backup attendance file to a location and Also **email the attendance of a particular cleint to a email address**
+
+
+
+
 
 
