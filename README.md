@@ -74,7 +74,7 @@ In this option you just simply see the imformations of client/students
 
 By the help of Backup option you can backup attendance file to a location and Also **email the attendance of a particular cleint to a email address** For this you just need to 
 provide you email id and password in ```Backup_Database.py``` file by this email our program sent emails to the clients/students , and also enable  [Less Secure apps](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4O60nbAZyuojxGT8ChwsTYs7rNyxh7NVUSxbq3ty6TyihvrsctF2ticq7qESTyYSxXe-T-e8ZO1B_clxbnl3cHiYHM1sQ) for your email id. 
-and the daily attendance also stored in the google drive spreedsheets for this you need to get api from   [ developer’s console.](https://console.developers.google.com/) . You get the ```.json``` file  from there . past this file in the main directory of program and renamed it ```testSheets-9c1b98942881.json```  and also share a spreadsheet from google drive to ```client_email``` present in ```.json``` file . ***You can also refer to [this](https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/) webside***
+and the daily attendance also stored in the google drive spreedsheets for this you need to get api from   [ developer’s console.](https://console.developers.google.com/) . You get the ```.json``` file  from there . paste this file in the main directory of program and renamed it as ```testSheets-9c1b98942881.json```  and also share a spreadsheet from google drive to ```client_email``` present in ```.json``` file . ***You can also refer to [this](https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/) webside***
 
 
 ![plot](./images/backup.jpg)
