@@ -35,7 +35,8 @@ oauth2client
 # DEMO
 Firstyou need to run the  [Login_Page.py](README.md)
 
-IMG
+![plot](./images/login.jpg)
+
 
 After filling the **user name** =>  ```atul``` **Password** => ```corona``` 
 
@@ -47,24 +48,35 @@ In this option you may have to fill the clent/student details ('there is many co
 
 ![plot](./images/addclient.jpg)
 
+
 ![plot](./images/addclient2.jpg)
+
+
 **2 Update client**
 
 In this option you can simply update the previous client/student data just by entering their ID . And you can also create a local Attendance file *IF IT IS NOT PRESENT And also check that the client/student Trainer file (File is which th facial data is present) is present or not if not you can also create.
 
+
 ![plot](./images/update.jpg)
+
 
 **3 Clients**
 
 In this option you just simply see the imformations of client/students
 
-![plot](./images/details.jpg)
+
+![plot](./images/detail.jpg)
+
 
 **4 BACKUP**
 
 By the help of Backup option you can backup attendance file to a location and Also **email the attendance of a particular cleint to a email address** For this you just need to 
 provide you email id and password in ```Backup_Database.py``` file by this email our program sent emails to the cleints/students , and also enable  [Less Secure apps](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4O60nbAZyuojxGT8ChwsTYs7rNyxh7NVUSxbq3ty6TyihvrsctF2ticq7qESTyYSxXe-T-e8ZO1B_clxbnl3cHiYHM1sQ) for your that email id. 
 and the daily attendance also stored in the google drive spreedsheets for this you need to get  [google sheet api](https://developers.google.com/sheets/api/quickstart/python) 
+
+
+![plot](./images/backup.jpg)
+
 
 
 
