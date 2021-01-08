@@ -44,7 +44,7 @@ After filling the **user name** =>  ```atul``` **Password** => ```corona```
 
 You came to the main page of this project at this page there is many options 
 
-**1 ADD client 
+**1 ADD client**
 
 In this option you may have to fill the clent/student details ('there is many conditions at the back end so if any error came please read carefully the error may be of some databse error  so due to that you may need to cahnge some values ')
 
