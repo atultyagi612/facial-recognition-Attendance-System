@@ -7,7 +7,7 @@ Technology used : -openCV (Opensource Computer Vision) -Python -tkinter GUI inte
 
 # REQUIREMENT 
 
-Opencv(cv2)
+```Opencv(cv2)
 
 PIL
 
@@ -37,9 +37,8 @@ gspread
 
 xlsxwriter
 
-oauth2client
+oauth2client```
 
-requirements.txt
 
 **You can refer this file  for modules version**
 ```requirements.txt```
