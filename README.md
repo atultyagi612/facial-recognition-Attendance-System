@@ -90,7 +90,7 @@ Now you can also see that Attendance is marked at spreadsheet on your google dri
 
 ![plot](./images/spreadsheet.jpg)
 
-***You can contact me at atultyagi.at.612@gmail.com for any query**
+**You can contact me at atultyagi.at.612@gmail.com for any query**
 
 
 
