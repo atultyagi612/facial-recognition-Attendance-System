@@ -33,6 +33,8 @@ oauth2client
 **You can  refer google for their working , installation  and other knowledge**
 
 # DEMO
+
+# Admin Side 
 Firstyou need to run the  [Login_Page.py](README.md)
 
 ![plot](./images/login.jpg)
@@ -72,11 +74,19 @@ In this option you just simply see the imformations of client/students
 
 By the help of Backup option you can backup attendance file to a location and Also **email the attendance of a particular cleint to a email address** For this you just need to 
 provide you email id and password in ```Backup_Database.py``` file by this email our program sent emails to the cleints/students , and also enable  [Less Secure apps](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4O60nbAZyuojxGT8ChwsTYs7rNyxh7NVUSxbq3ty6TyihvrsctF2ticq7qESTyYSxXe-T-e8ZO1B_clxbnl3cHiYHM1sQ) for your that email id. 
-and the daily attendance also stored in the google drive spreedsheets for this you need to get  [google sheet api](https://developers.google.com/sheets/api/quickstart/python) 
+and the daily attendance also stored in the google drive spreedsheets for this you need to get api on  [google sheet api](https://developers.google.com/sheets/api/quickstart/python) . You get the ```.json``` file past this file in the main directory of program and renamed it ```testSheets-9c1b98942881.json``` 
 
 
 ![plot](./images/backup.jpg)
 
+## User Side 
+
+At this you just need to enter your ID after that it Recognise your face if it matches it mark your Attendance on database and also on google spreadsheet . 
+
+
+![plot](./images/user.jpg)
+
+![plot](./images/spreadsheet.jpg)
 
 
 
