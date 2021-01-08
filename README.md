@@ -35,7 +35,7 @@ oauth2client
 # DEMO
 
 # Admin Side 
-Firstyou need to run the  [Login_Page.py](README.md)
+Firstyou need to run the  [Login_Page.py](Login_Page.py)
 
 ![plot](./images/login.jpg)
 
