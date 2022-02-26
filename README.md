@@ -3,7 +3,6 @@ A Facial recognition Attendance system using opencv
 
 This repository contains code for facial-recognition-Attendance-System using openCV and python with a tkinter gui interface. 
 
-Technology used : -openCV (Opensource Computer Vision) -Python -tkinter GUI interface
 
 # REQUIREMENT 
 
